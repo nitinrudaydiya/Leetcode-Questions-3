@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1486-xor-operation-in-an-array) |
+| [2235-add-two-integers](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
