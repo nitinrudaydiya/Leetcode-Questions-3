@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0004-median-of-two-sorted-arrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
