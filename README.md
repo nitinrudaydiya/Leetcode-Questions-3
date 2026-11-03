@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1486-xor-operation-in-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2235-add-two-integers) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## String
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+## Number Theory
+|  |
+| ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
