@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Counting
 |  |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
