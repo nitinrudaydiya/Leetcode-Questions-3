@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
