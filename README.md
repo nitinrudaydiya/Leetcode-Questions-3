@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -68,9 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 ## Database
 |  |
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
