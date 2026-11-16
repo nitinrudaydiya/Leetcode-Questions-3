@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/0151-reverse-words-in-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nitinrudaydiya/Leetcode-Questions-3/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
